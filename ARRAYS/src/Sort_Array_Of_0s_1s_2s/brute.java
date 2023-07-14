@@ -1,0 +1,9 @@
+
+//THIS IS ON LEETCODE WITH NAME- SORT COLOURS
+
+package Sort_Array_Of_0s_1s_2s;
+
+public class brute {
+}
+
+//JUST SORT THE ARRAY WITH ANY OF THE SORTING METHODS
